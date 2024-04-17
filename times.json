@@ -1,0 +1,358 @@
+{
+    "players":[
+        
+        {
+            "player": "aether 2022",
+            "mean": 168.35,
+            "standard dev": 4.578,
+            "count": 14,
+            "elo": 1621
+        },
+        {
+            "player": "amount 2022",
+            "mean": 168.69,
+            "standard dev": 4.988,
+            "count": 8,
+            "elo": 1414
+        },
+        {
+            "player": "caskel 2022",
+            "mean": 181.32,
+            "standard dev": 7,
+            "count": 4,
+            "elo": 760
+        },
+        {
+            "player": "choke 2023",
+            "mean": 184.96,
+            "standard dev": 7,
+            "count": 6,
+            "elo": 638
+        },
+        {
+            "player": "confetti 2022",
+            "mean": 179.95,
+            "standard dev": 7,
+            "count": 8,
+            "elo": 939
+        },
+        {
+            "player": "confetti 2023",
+            "mean": 171.84,
+            "standard dev": 6.211,
+            "count": 4,
+            "elo": 1257
+        },
+        {
+            "player": "critch 2022",
+            "mean": 186.33,
+            "standard dev": 2.602,
+            "count": 4,
+            "elo": 631
+        },
+        {
+            "player": "danthechris 2022",
+            "mean": 175.22,
+            "standard dev": 4.741,
+            "count": 5,
+            "elo": 984
+        },
+        {
+            "player": "ducbob 2022",
+            "mean": 170.94,
+            "standard dev": 2.292,
+            "count": 8,
+            "elo": 1387
+        },
+        {
+            "player": "ducbob 2023",
+            "mean": 173.75,
+            "standard dev": 3.787,
+            "count": 10,
+            "elo": 1047
+        },
+        {
+            "player": "dylrsmith 2022",
+            "mean": 175.60,
+            "standard dev": 2.111,
+            "count": 6,
+            "elo": 977
+        },
+        {
+            "player": "eggsonfeet 2023",
+            "mean": 169.72,
+            "standard dev": 2.927,
+            "count": 16,
+            "elo": 1416
+        },
+        {
+            "player": "elraak 2023",
+            "mean": 197.53,
+            "standard dev": 7,
+            "count": 6,
+            "elo": 460
+        },
+        {
+            "player": "frozentea 2023",
+            "mean": 173.55,
+            "standard dev": 4.361,
+            "count": 8,
+            "elo": 1141
+        },
+        {
+            "player": "green_ender 2022",
+            "mean": 179.11,
+            "standard dev": 7,
+            "count": 9,
+            "elo": 939
+        },
+        {
+            "player": "happy_maxi 2022",
+            "mean": 185.32,
+            "standard dev": 3.904,
+            "count": 4,
+            "elo": 729
+        },
+        {
+            "player": "happy_maxi 2023",
+            "mean": 186.13,
+            "standard dev": 7,
+            "count": 6,
+            "elo": 624
+        },
+        {
+            "player": "hatboytimo 2022",
+            "mean": 164.62,
+            "standard dev": 2.365,
+            "count": 15,
+            "elo": 2070
+        },
+        {
+            "player": "hatboytimo 2023",
+            "mean": 168.00,
+            "standard dev": 7,
+            "count": 19,
+            "elo": 1339
+        },
+        {
+            "player": "helyon 2023",
+            "mean": 170.84,
+            "standard dev": 4.895,
+            "count": 14,
+            "elo": 1346
+        },
+        {
+            "player": "hirassy 2022",
+            "mean": 167.84,
+            "standard dev": 3.848,
+            "count": 18,
+            "elo": 1549
+        },
+        {
+            "player": "hirassy 2023",
+            "mean": 167.11,
+            "standard dev": 2.444,
+            "count": 17,
+            "elo": 1753
+        },
+        {
+            "player": "jarko 2022",
+            "mean": 169.94,
+            "standard dev": 5.187,
+            "count": 10,
+            "elo": 1472
+        },
+        {
+            "player": "kaywayz 2022",
+            "mean": 173.56,
+            "standard dev": 3.381,
+            "count": 5,
+            "elo": 1089
+        },
+        {
+            "player": "kidoosu 2023",
+            "mean": 173.28,
+            "standard dev": 7,
+            "count": 15,
+            "elo": 1160
+        },
+        {
+            "player": "lathil 2022",
+            "mean": 166.03,
+            "standard dev": 2.316,
+            "count": 9,
+            "elo": 1826
+        },
+        {
+            "player": "lathil 2023",
+            "mean": 167.86,
+            "standard dev": 4.820,
+            "count": 16,
+            "elo": 1683
+        },
+        {
+            "player": "luco 2022",
+            "mean": 163.90,
+            "standard dev": 2.456,
+            "count": 26,
+            "elo": 2085
+        },
+        {
+            "player": "luco 2023",
+            "mean": 164.11,
+            "standard dev": 2.602,
+            "count": 27,
+            "elo": 1918
+        },
+        {
+            "player": "luke saward 2022",
+            "mean": 168.19,
+            "standard dev": 3.411,
+            "count": 7,
+            "elo": 1511
+        },
+        {
+            "player": "luke saward 2023",
+            "mean": 167.06,
+            "standard dev": 1.955,
+            "count": 23,
+            "elo": 1603
+        },
+        {
+            "player": "lusonice 2023",
+            "mean": 167.28,
+            "standard dev": 4.504,
+            "count": 19,
+            "elo": 1627
+        },
+        {
+            "player": "miningpie 2022",
+            "mean": 163.23,
+            "standard dev": 1.498,
+            "count": 35,
+            "elo": 2054
+        },
+        {
+            "player": "miningpie 2023",
+            "mean": 162.71,
+            "standard dev": 1.109,
+            "count": 23,
+            "elo": 2254
+        },
+        {
+            "player": "olivia 2022",
+            "mean": 164.38,
+            "standard dev": 3.516,
+            "count": 17,
+            "elo": 1810
+        },
+        {
+            "player": "olivia 2023",
+            "mean": 166.23,
+            "standard dev": 7,
+            "count": 30,
+            "elo": 1537
+        },
+        {
+            "player": "ospintriple 2022",
+            "mean": 163.86,
+            "standard dev": 3.113,
+            "count": 22,
+            "elo": 1982
+        },
+        {
+            "player": "rain_shinotsu 2022",
+            "mean": 176.17,
+            "standard dev": 4.217,
+            "count": 6,
+            "elo": 1001
+        },
+        {
+            "player": "shmorgley 2022",
+            "mean": 171.02,
+            "standard dev": 6.672,
+            "count": 10,
+            "elo": 1346
+        },
+        {
+            "player": "shmorgley 2023",
+            "mean": 170.73,
+            "standard dev": 2.933,
+            "count": 5,
+            "elo": 1310
+        },
+        {
+            "player": "sladke 2022",
+            "mean": 167.57,
+            "standard dev": 4.270,
+            "count": 12,
+            "elo": 1577
+        },
+        {
+            "player": "sladke 2023",
+            "mean": 163.98,
+            "standard dev": 1.441,
+            "count": 22,
+            "elo": 2061
+        },
+        {
+            "player": "smythe 2023",
+            "mean": 163.28,
+            "standard dev": 1.549,
+            "count": 22,
+            "elo": 2069
+        },
+        {
+            "player": "sneaky 2022",
+            "mean": 181.45,
+            "standard dev": 5.859,
+            "count": 5,
+            "elo": 806
+        },
+        {
+            "player": "suolamainen 2022",
+            "mean": 188.78,
+            "standard dev": 5.318,
+            "count": 3,
+            "elo": 576
+        },
+        {
+            "player": "vapo 2022",
+            "mean": 171.84,
+            "standard dev": 6.211,
+            "count": 4,
+            "elo": 1225
+        },
+        {
+            "player": "waz00 2022",
+            "mean": 192.89,
+            "standard dev": 4.206,
+            "count": 4,
+            "elo": 439
+        },
+        {
+            "player": "wocisjr 2022",
+            "mean": 169.97,
+            "standard dev": 1.641,
+            "count": 5,
+            "elo": 1390
+        },
+        {
+            "player": "wocisjr 2023",
+            "mean": 170.52,
+            "standard dev": 2.459,
+            "count": 6,
+            "elo": 1314
+        },
+        {
+            "player": "stockfunct 2023",
+            "mean": 161.29,
+            "standard dev": 0.21,
+            "count": 5,
+            "elo": 2426
+        }
+
+    ]
+
+
+}

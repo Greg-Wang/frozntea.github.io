@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/frozntea.github.io/static/css/main.9b3a84a3.css",
-    "main.js": "/frozntea.github.io/static/js/main.4ecfb497.js",
+    "main.js": "/frozntea.github.io/static/js/main.1c214040.js",
     "static/js/453.417aa68c.chunk.js": "/frozntea.github.io/static/js/453.417aa68c.chunk.js",
     "index.html": "/frozntea.github.io/index.html",
     "main.9b3a84a3.css.map": "/frozntea.github.io/static/css/main.9b3a84a3.css.map",
-    "main.4ecfb497.js.map": "/frozntea.github.io/static/js/main.4ecfb497.js.map",
+    "main.1c214040.js.map": "/frozntea.github.io/static/js/main.1c214040.js.map",
     "453.417aa68c.chunk.js.map": "/frozntea.github.io/static/js/453.417aa68c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9b3a84a3.css",
-    "static/js/main.4ecfb497.js"
+    "static/js/main.1c214040.js"
   ]
 }

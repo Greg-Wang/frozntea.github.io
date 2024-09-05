@@ -31,7 +31,7 @@ function calc_elo(win_loss: boolean, elo_player: number, elo_opponent: number) {
 
 function App() {
   let initial_opponent = Math.floor(Math.random() * times.players.length);
-  let initial_elo = 645;
+  let initial_elo = 705;
   let range = 320;
   const std_dev_rate = 0.7;
 
